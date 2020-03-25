@@ -101,7 +101,7 @@ You're now ready to install SQL Server with Machine Learning Services. You won't
 - Use the **Mixed** authentication method
 - Assign the `sa` account a strong password and remember it
 
-<p><img style="float: left; margin: 0px 15px 15px 0px;" src="../graphics/checkbox.png">Activity 7: Set Environment Variables for SQL Server Machine Learning Services</p>
+<p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/Microsoft/sqlworkshops/blob/master/graphics/checkbox.png?raw=true">Activity 7: Set Environment Variables for SQL Server Machine Learning Services</p>
 
 For R feature integration, you should set the `MKL_CBWR` environment variable to ensure consistent output from Intel Math Kernel Library (MKL) calculations.
 
@@ -110,7 +110,7 @@ For R feature integration, you should set the `MKL_CBWR` environment variable to
 - Set variable name to **MKL_CBWR**
 - Set the variable value to **AUTO**
 
-<p><img style="float: left; margin: 0px 15px 15px 0px;" src="../graphics/checkbox.png">Activity 8: Install SQL Server Machine Management Studio</p>
+<p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/Microsoft/sqlworkshops/blob/master/graphics/checkbox.png?raw=true">Activity 8: Install SQL Server Machine Management Studio</p>
 
 For this course you will use the Azure Data Studio tool, but you may be more familiar with SQL Server Management Studio. You can install it so that you have that environment with this command:
 
@@ -120,14 +120,14 @@ choco install sql-server-management-studio
 </pre>
 
 
-<p><img style="float: left; margin: 0px 15px 15px 0px;" src="../graphics/checkbox.png">Activity 9: Copy the Course Database</b></p>
+<p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/Microsoft/sqlworkshops/blob/master/graphics/checkbox.png?raw=true">Activity 9: Copy the Course Database</b></p>
 
 - The dataset used in this course is contained in a few SQL Server tables. The tables contain data from various systems on-premises over a period of time. <a href="https://cs7a9736a9346a1x44c6xb00.blob.core.windows.net/backups/Analysis.bak" target="_blank">The backup (.bak) file is located here - note that it may take some time to download, so do this before you arrive to class if taking this course in-person.</a> 
 - Copy that file to this location on your Instance: `C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup`.
 
 During the course, you will restore this backup to your system. You do not need to do that now. 
 
-<p><img style="float: left; margin: 0px 15px 15px 0px;" src="../graphics/checkbox.png">Activity 10: Update and Reboot system</p>
+<p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/Microsoft/sqlworkshops/blob/master/graphics/checkbox.png?raw=true">Activity 10: Update and Reboot system</p>
 
 It's always a good idea after this many installations to run Windows Update again and reboot your system:
 
@@ -156,7 +156,7 @@ When all of the above is complete and you are in class, you'll download a zip fi
 
 **NOTE:** *If you are taking this course self-paced, continue with these instructions, if you are going to take the course in-class, you can stop here.*
 
-<p><img style="float: left; margin: 0px 15px 15px 0px;" src="../graphics/checkbox.png"><b>Get the Course Files</b></p>
+<p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/Microsoft/sqlworkshops/blob/master/graphics/checkbox.png?raw=true"><b>Get the Course Files</b></p>
 
 <br>
 <a href="https://github.com/Microsoft/sqlworkshops/archive/master.zip" target="_blank">Open this link</a> and open the file, and un-zip the files into your workstation's <b>Documents</b> directory. The base directory we will use for this class is called <b>SQLServerMLServices</b>. Even if you did this prior to class, do this again so that you have the latest versions.
@@ -167,6 +167,6 @@ When all of the above is complete and you are in class, you'll download a zip fi
 git clone https://github.com/microsoft/sqlworkshops-sqlmlsvc.git
 </pre>
 
-<p><img style="float: left; margin: 0px 15px 15px 0px;" src="../graphics/checkbox.png"><b>Begin the Course using Azure Data Studio and Notebooks</b></p>
+<p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/Microsoft/sqlworkshops/blob/master/graphics/checkbox.png?raw=true"><b>Begin the Course using Azure Data Studio and Notebooks</b></p>
 
 Now you can open **Azure Data Studio**, navigate using the file-icon on the left, and open the base directory for this course. Locate the **notebooks** folder and open the Notebook called **01-SQLServerMachineLearningServicesArchitecture.ipynb**
