@@ -164,7 +164,7 @@ When all of the above is complete and you are in class, you'll download a zip fi
 *Note: You can use `git` to clone the workshop if you like with the following commands, typed in a command shell in your "Documents" directory*: 
 
 <pre>
-git clone https://github.com/Microsoft/sqlworkshops.git
+git clone https://github.com/microsoft/sqlworkshops-sqlmlsvc.git
 </pre>
 
 <p><img style="float: left; margin: 0px 15px 15px 0px;" src="../graphics/checkbox.png"><b>Begin the Course using Azure Data Studio and Notebooks</b></p>

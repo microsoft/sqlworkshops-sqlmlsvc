@@ -109,4 +109,4 @@ This workshop uses Machine Learning with R in SQL Server, with a focus on a clus
 
 <p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/Microsoft/sqlworkshops/blob/master/graphics/geopin.png?raw=true"><b>Next Steps</b></p>
 
-Next, Continue to <a href="https://github.com/microsoft/sqlworkshops/blob/master/SQLServerMLServices/00-Prerequisites.md" target="_blank"><i> Pre-Requisites</i></a>
+Next, Continue to <a href="https://github.com/microsoft/sqlworkshops-sqlmlsvc/00-Prerequisites.md" target="_blank"><i> Pre-Requisites</i></a>
