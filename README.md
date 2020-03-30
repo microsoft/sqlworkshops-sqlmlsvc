@@ -17,9 +17,9 @@ The focus of this workshop is to understand how to create a machine learning sol
 
 You'll start by understanding the problem your organization wants to solve, collecting the data you need to solve problem, then creating an experiment, testing the experiment, and on to operationalizing the Machine Learning model - all with a focus on how to extrapolate what you have learned to create other solutions for your organization.
 
-This README.MD file explains how the workshop is laid out, what you will learn, and the technologies you will use in this solution.
+This [github README.MD file](https://lab.github.com/githubtraining/introduction-to-github) explains how the workshop is laid out, what you will learn, and the technologies you will use in this solution. To download this Lab to your local computer, click the **Clone or Download** button you see at the top right side of this page. [More about that process is here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
-You can view all of the [source files for this workshop on this GitHub site, along with other workshops as well. Open this link in a new tab to find out more.](https://aka.ms/sqlworkshops)
+You can view all of the [courses and other workshops our team has created at this link - open in a new tab to find out more.](https://microsoft.github.io/sqlworkshops/)
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
 
