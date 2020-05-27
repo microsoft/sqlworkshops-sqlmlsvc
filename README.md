@@ -88,6 +88,8 @@ A full pre-requisites document is located below in the <b>Next Steps</b> area. T
 
 This workshop uses Machine Learning with R in SQL Server, with a focus on a clustering algorithm to solve a real-world problem.
 
+> Note: For a Jupyter Notebook-driven experience with Machine Learning Services using Python in a real-world example, complete this course, [and then open this reference](https://github.com/microsoft/sqlworkshops-sqlmlsvc/blob/master/pythonnotebooks/01%20-%20Installation%20and%20Setup.ipynb).
+
 <table style="tr:nth-child(even) {background-color: #f2f2f2;}; text-align: left; display: table; border-collapse: collapse; border-spacing: 5px; border-color: gray;">
 
   <tr><td style="background-color: Cornsilk; color: black; padding: 5px 5px;">Primary Audience:</td><td style="background-color: Cornsilk; color: black; padding: 5px 5px;"> Data Professionals tasked with Data Science Projects</td></tr>
