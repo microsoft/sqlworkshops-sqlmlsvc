@@ -122,7 +122,7 @@ choco install sql-server-management-studio
 
 <p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/Microsoft/sqlworkshops/blob/master/graphics/checkbox.png?raw=true">Activity 9: Copy the Course Database</b></p>
 
-- The dataset used in this course is contained in a few SQL Server tables. The tables contain data from various systems on-premises over a period of time. <a href="https://cs7a9736a9346a1x44c6xb00.blob.core.windows.net/backups/Analysis.bak" target="_blank">The backup (.bak) file is located here - note that it may take some time to download, so do this before you arrive to class if taking this course in-person.</a> 
+- The dataset used in this course is contained in a few SQL Server tables. The tables contain data from various systems on-premises over a period of time. <a href="https://sabwoody.blob.core.windows.net/backups/Analysis.bak" target="_blank">The backup (.bak) file is located here - note that it may take some time to download, so do this before you arrive to class if taking this course in-person.</a> 
 - Copy that file to this location on your Instance: `C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup`.
 
 During the course, you will restore this backup to your system. You do not need to do that now. 
